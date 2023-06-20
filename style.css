@@ -1,0 +1,52 @@
+.text{
+    text-align: center;
+}
+.flex1{
+   
+    display:flex;
+    width: 20%;
+    height: 40px;
+    margin: auto;
+    box-shadow: 0px 0px 20px black;
+    color: transparent;
+}
+.d1_red{
+    text-align: center;
+    width: 25%;
+    background-image: linear-gradient(rgba(255, 0, 0,1),rgba(255, 0, 0,0.5),rgba(255, 0, 0,1));
+}
+.d2_red{
+    width: 75%;
+    background-image: linear-gradient(rgba(255, 0, 0,0.6),rgba(255, 0, 0,0.2),rgba(255, 0, 0,0.6));
+    border-left: 10px double rgba(0,0,0,1);
+}
+.d3_red{
+    width: 10px;
+    background-image: linear-gradient(rgba(255, 0, 0,1),rgba(255, 0, 0,0.5),rgba(255, 0, 0,1));
+}
+.c1_red{
+    width: 25%;
+    background-image: linear-gradient(rgba(60, 206, 2,1),rgba(72, 255, 0,0.5),rgb(72, 255, 0,1));
+}
+.c2_red{
+    width: 75%;
+    background-image: linear-gradient(rgb(60, 206, 2,0.6),rgb(72, 255, 0,0.2),rgb(72, 255, 0,0.6));
+    border-left: 10px double rgba(0,0,0,1);
+}
+.c3_red{
+    width: 10px;
+    background-image: linear-gradient(rgb(60, 206, 2,1),rgb(72, 255, 0,0.5),rgb(72, 255, 0,1));
+}
+.b1_red{
+    width: 25%;
+    background-image: linear-gradient(rgba(31, 4, 150,1),rgba(31, 4, 150,0.5),rgba(31, 4, 150,1));
+}
+.b2_red{
+    width: 75%;
+    background-image: linear-gradient(rgba(31, 4, 150,0.6),rgba(31, 4, 150,0.2),rgba(31, 4, 150,0.6));
+    border-left: 10px double rgba(0,0,0,1);
+}
+.b3_red{
+    width: 10px;
+    background-image: linear-gradient(rgba(31, 4, 150,1),rgba(31, 4, 150,0.5),rgba(31, 4, 150,1));
+}
